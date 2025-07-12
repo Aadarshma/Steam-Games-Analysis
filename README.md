@@ -4,25 +4,25 @@ In this project, I performed a comprehensive data analysis on a large dataset of
 
 🔍 Key Objectives and Questions Explored:
 
-Most Popular Genres – Identified top-performing genres based on ownership and user engagement.
+1) Most Popular Genres – Identified top-performing genres based on ownership and user engagement.
 
-Price vs. Positive Rating Ratio – Analyzed whether cost influences user satisfaction using correlation analysis and scatter plots.
+2) Price vs. Positive Rating Ratio – Analyzed whether cost influences user satisfaction using correlation analysis and scatter plots.
 
-Free vs Paid Games – Quantified how many games are free and explored how this impacts user ratings and downloads.
+3) Free vs Paid Games – Quantified how many games are free and explored how this impacts user ratings and downloads.
 
-Top Developers & Publishers – Ranked studios by the number of games released on Steam.
+4) Top Developers & Publishers – Ranked studios by the number of games released on Steam.
 
-Release Trends Over Time – Visualized how game releases have increased or shifted across different years.
+5) Release Trends Over Time – Visualized how game releases have increased or shifted across different years.
 
-Top 10 Highest-Rated Games – Filtered and ranked games based on their positive rating ratios.
+6) Top 10 Highest-Rated Games – Filtered and ranked games based on their positive rating ratios.
 
-Price vs. Number of Owners – Investigated whether cheaper games are more widely owned.
+7) Price vs. Number of Owners – Investigated whether cheaper games are more widely owned.
 
-Common Tags in Top-Rated Games – Analyzed recurring tags or features among the highest-rated games.
+8) Common Tags in Top-Rated Games – Analyzed recurring tags or features among the highest-rated games.
 
-Review Trends for Free Games – Compared average negative reviews between free and paid games.
+9) Review Trends for Free Games – Compared average negative reviews between free and paid games.
 
-Genres with Highest Positive Ratings – Determined which genres receive the most positive feedback on average.
+10) Genres with Highest Positive Ratings – Determined which genres receive the most positive feedback on average.
 
 📈 Skills Demonstrated:
 
